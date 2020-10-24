@@ -1,0 +1,24 @@
+.iconBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Fredoka One", cursive;
+  border-radius: 5px;
+  border: none;
+  padding: 4px 7px;
+  background: rgb(239, 239, 239);
+
+  &:hover {
+    background: lighten(rgb(239, 239, 239), 10%);
+    outline: none;
+  }
+
+  &:focus {
+    outline: none;
+  }
+
+  img {
+    width: 1.3em;
+    margin-right: 5px;
+  }
+}
