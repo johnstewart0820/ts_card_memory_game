@@ -1,4 +1,4 @@
-This is the [memory card game](https://memory-card-game.iceberg1109.vercel.app/), built by Next.js
+This is the [memory card game](https://memory-card-game.iceberg1109.vercel.app/), built by Next.js and Typescript.
 
 ### The goal
 
